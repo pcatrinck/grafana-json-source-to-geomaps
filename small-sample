@@ -18,5 +18,10 @@
         "name": "aeroporto",
         "latitude": -20.263387,
         "longitude": -40.2850582
+    },
+    {
+        "name": "pedra da cebola",
+        "latitude": -20.2772266,
+        "longitude": -40.2998816
     }
 ]
