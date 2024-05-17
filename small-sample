@@ -1,0 +1,22 @@
+[
+    {
+        "name": "pedra da cebola",
+        "latitude": -20.2772266,
+        "longitude": -40.2998816
+    },
+    {
+        "name": "fonte grande",
+        "latitude": -20.3010727,
+        "longitude": -40.3361269
+    },
+    {
+        "name": "ilha maria",
+        "latitude": -20.3198957,
+        "longitude": -40.3152105
+    },
+    {
+        "name": "aeroporto",
+        "latitude": -20.263387,
+        "longitude": -40.2850582
+    }
+]
