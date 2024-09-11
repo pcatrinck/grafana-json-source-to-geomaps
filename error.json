@@ -1,14 +1,14 @@
 [
     {
-        "name": "Point_609",
-        "latitude": -20.299795,
-        "longitude": -40.295668,
-        "dist": 27.71866266775147
-    },
-    {
-        "name": "Point_608",
+        "name": "Point_607",
         "latitude": -20.301742,
         "longitude": -40.297082,
         "dist": 27.456715844913845
+    },
+    {
+        "name": "Point_606",
+        "latitude": -20.302841,
+        "longitude": -40.297903,
+        "dist": 27.30750344156963
     }
 ]
