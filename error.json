@@ -1,1 +1,14 @@
-[]
+[
+    {
+        "name": "Point_2",
+        "latitude": -20.29455,
+        "longitude": -40.31112,
+        "dist": 0.0011313437085070637
+    },
+    {
+        "name": "Point_1",
+        "latitude": -20.29456,
+        "longitude": -40.311118,
+        "dist": 0
+    }
+]
